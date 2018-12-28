@@ -1,0 +1,11 @@
+mnist/
+build/
+*.model
+
+.vs/
+*.vcxproj.user
+*.obj
+*.log
+*.tlog
+*.idb
+*.pdb
